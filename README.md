@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ```env
 OPENAI_API_KEY=sua_chave_aqui
 ```
-### 3. Execute o projeto
+### 4. Execute o projeto
 
 ```bash
 python -m streamlit run main.py
